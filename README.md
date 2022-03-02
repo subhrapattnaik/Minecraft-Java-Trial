@@ -25,5 +25,7 @@ SA2
 player right click-lets enter into magical world-portal block
 
 SA3
+/ty callfriends (user defined tynker command)
+
 
 
